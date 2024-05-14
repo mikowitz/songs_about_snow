@@ -5,7 +5,7 @@ defmodule SongsAboutSnow.PerformanceLinks do
         "https://www.youtube.com/watch?v=aJwRZnvec54"},
       {"Three Rothko Miniatures (2019, 2023-2024), for piano solo",
         "https://www.youtube.com/watch?v=-I1hWFkU_es"},
-      {"Helen (2024)",
+      {"Helen (2024) for soprano voice and alto flute",
         "https://www.youtube.com/watch?v=KPLVk4TEDao"},
       {"Music Like Dirt (2023), for string orchestra",
         "https://www.youtube.com/watch?v=AVZ4SV8SuaE"},
