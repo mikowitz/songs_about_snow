@@ -1,6 +1,8 @@
 defmodule SongsAboutSnow.PerformanceLinks do
   def links do
     [
+      {"] in a thin voice (2024), for soprano, viola and piano",
+        "https://www.youtube.com/watch?v=9nqMMxPe_AI"},
       {"Lorsque j'avais six ans (2023-2024), for cello and percussion",
         "https://www.youtube.com/watch?v=aJwRZnvec54"},
       {"Three Rothko Miniatures (2019, 2023-2024), for piano solo",
